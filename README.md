@@ -7,6 +7,9 @@ by executing `man st` in your terminal.
 ## Used patches from suckless project
 - scrollback + mouse:       Add scrollback funcionality
 
+## Apply patches to include features
+- `patch -p1 -u -i patches/...`
+
 ## Installation 
 - `git clone https://gitlab.com/vladjv/st.git`
 - `cd st`
