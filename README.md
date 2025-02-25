@@ -11,7 +11,7 @@ by executing `man st` in your terminal.
 - `patch -p1 -u -i patches/...`
 
 ## Installation 
-- `git clone https://gitlab.com/vladjv/st.git`
+- `git clone https://github.com/vladjv/st.git`
 - `cd st`
 - `make`
 - `sudo make install`
